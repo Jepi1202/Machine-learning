@@ -2,7 +2,7 @@
 
 Work done for the projects of the machine learning course at ULiege
 
-### Note:
+### Marks:
 
 - Project 1: 20/20
 - Project 2: 20/20
